@@ -4,7 +4,6 @@
 
 ---
 
-
 ## 1. Performance & Responsiveness
 
 - **Initial Load Target (LCP):** The system must achieve a Largest Contentful Paint (LCP) of ≤ 2.5 seconds at the 75th percentile under standard broadband and modern 4G network conditions.
@@ -79,7 +78,7 @@
 
 - **Operational Budget:** The running operational cost of the system must remain strictly $0 per month for Version 1.
 
-- **Delivery Timeline:** The entire system must be fully designed, developed, and deployed within a 1-month development timeline.
+- **Delivery Timeline:** Approximately 1 month is the target for completing and deploying Version 1. The timeline may be extended if additional time is required to satisfy the defined V1 requirements.
 
 ---
 
@@ -87,7 +86,7 @@
 
 This phase is complete when:
 
-- All performance, capacity, and latency metrics are explicitly quantified.
+- Performance, capacity, and latency targets are explicitly defined where measurable.
 - Device, browser, and accessibility baselines are formally defined.
 - Search-engine discoverability expectations are established.
 - Security, privacy, transport, and availability expectations are established.
