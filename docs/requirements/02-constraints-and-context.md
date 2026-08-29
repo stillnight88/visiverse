@@ -6,13 +6,17 @@
 
 ## 1. Time & Effort Constraints
 
-* **Estimated Timeline:** Approximately 1 month to complete the initial project scope (part-time).
-* **Effort Level:** Variable/Flexible. The scope must remain small enough to be completed within the 1-month calendar window regardless of weekly hour fluctuations.
-* **Evolution:** The application is expected to continue evolving through refactoring, optimization, and additional features only after this initial 1-month baseline is deployed.
+- **Development Timeline:** Approximately 1 month is the target for completing and deploying the initial project scope (part-time).
+
+- **Timeline Flexibility:** The one-month period is a target rather than a hard constraint. If additional time is required to satisfy the defined V1 requirements, the timeline may be extended.
+
+- **Effort Level:** Variable/Flexible. The scope should remain reasonably small for a solo developer, but weekly available hours may fluctuate.
 
 ### Implications
-* Feature scope must remain tightly controlled.
-* Avoid complex infrastructure or premature optimization.
+
+- V1 scope should remain limited to the defined product outcome.
+- The one-month target should be used to control scope, but requirements should not be weakened solely to meet the date.
+- Additional time may be accepted if necessary to satisfy the agreed V1 requirements.
 
 ---
 

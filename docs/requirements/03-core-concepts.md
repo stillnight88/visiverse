@@ -16,7 +16,9 @@
 ### The Image (Wallpaper)
 The primary content entity in the system. Each Image represents a wallpaper available for users to view and download.
 * **Image Content:** The visual media source (file or URL) made available for the gallery.
+* **Original Filename:** The original file name established by the Administrator for the image.
 * **Description (Alt-Text):** A brief textual description associated with the image. 
+- **Added Date:** The point in time when the image was added to the gallery.
 * *(Future Evolution: Categories or tags may be introduced in later versions when the image volume necessitates filtering).*
 
 ---
