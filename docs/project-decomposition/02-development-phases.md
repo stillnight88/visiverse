@@ -1,7 +1,5 @@
 # 02 — Development Phases
 
-**Status:** Final
-
 ## 1. Purpose
 
 This document sequences Visiverse V1 into development phases, based on the final Feature Decomposition. It answers: **in what coherent increments should V1 be built, and why in that order?**
@@ -274,11 +272,5 @@ If the work exceeds the target, identify the source of the overrun first, and do
 | Launch and measurement            | 6                                                   |
 
 ---
-
-## 10. Boundary
-
-```text
-Requirements Analysis → Feature Decomposition → Development Phases → Design / Architecture
-```
 
 This document defines when and why major work is done, not how the system is built.

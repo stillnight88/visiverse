@@ -168,15 +168,7 @@ Abuse-traffic protection is a stated non-functional requirement with no acceptan
 
 ---
 
-## 10. Boundary
-
-```text
-Requirements Analysis → Feature Decomposition → Development Phases → Design / Architecture
-```
-
----
-
-## 11. Out of Scope for This Document
+## 10. Out of Scope for This Document
 
 * Framework and technology choices
 * API and database design
